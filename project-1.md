@@ -1,8 +1,8 @@
 ## PROJECT 1: LAMP STACK IMPLEMENTATION
 
-### I will start Installation of Apache using Ubuntu’s package manager
+### I started the Installation of Apache using Ubuntu’s package manager
 
-### I will start by updating the list of packages in package manager by running the below command.
+### First, I started by updating the list of packages in package manager by running the below command.
 
  `sudo apt update`
 
