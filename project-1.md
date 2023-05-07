@@ -63,7 +63,7 @@
 
 ![Alter User](./images/ALTER-USER.jpg)
 
-#### secondly, I will Start the interactive script by running the below command, and to respond to other questions, enter Y and hit the ENTER key at each prompt to change the root password, remove some anonymous users and the test database, disable remote root logins, and load these new rules so that MySQL immediately respects the changes I have made.
+### secondly, I will Start the interactive script by running the below command, and to respond to other questions, enter Y and hit the ENTER key at each prompt to change the root password, remove some anonymous users and the test database, disable remote root logins, and load these new rules so that MySQL immediately respects the changes I have made.
 
 `sudo mysql_secure_installation`
 
@@ -71,7 +71,7 @@
 
 ![Mysql Secure](./images/mysql-secure1.jpg)
 
-#### To test if I am able to login to MySQL console, I run the below command, and exit MySQL console.
+### To test if I am able to login to MySQL console, I run the below command, and exit MySQL console.
 
 `sudo mysql -p`
 
@@ -79,7 +79,7 @@
 
 ## STEP 3 — INSTALLING PHP
 
-#### To install PHP and the additional component of the php package, I will have to install php-mysql, PHP module that allows PHP to communicate with MySQL-based databases, and libapache2-mod-php is needed to enable Apache to handle PHP files.
+### To install PHP and the additional component of the php package, I will have to install php-mysql, PHP module that allows PHP to communicate with MySQL-based databases, and libapache2-mod-php is needed to enable Apache to handle PHP files.
 
 ### The below command will be ran to Install the three (3) PHP pakages at the same time.
 
@@ -89,9 +89,9 @@
 
 ![PHP and 3 pakage Installation](./images/PHP-3-Installation1.jpg)
 
-## Confirm PHP version running
+### Confirm PHP version running
 
-#### To confirm the PHP version running on the server, the below command is use.
+### To confirm the PHP version running on the server, the below command is use.
 
 `php v`
 
