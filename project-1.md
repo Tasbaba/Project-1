@@ -53,6 +53,8 @@
 
 ![Mysql installation](./images/Mysql-installation1.jpg)
 
+- [PROJECT 1: LAMP STACK IMPLEMENTATION](https://github.com/Tasbaba/Project-1/blob/main/project-1.md)
+
 
 
 
