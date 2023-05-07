@@ -63,7 +63,7 @@
 
 ![Alter User](./images/ALTER-USER.jpg)
 
-### secondly, I will Start the interactive script by running the below command, and to respond to other questions, enter Y and hit the ENTER key at each prompt to change the root password, remove some anonymous users and the test database, disable remote root logins, and load these new rules so that MySQL immediately respects the changes I have made.
+### Secondly, I will Start the interactive script by running the below command, and to respond to other questions, enter Y and hit the ENTER key at each prompt to change the root password, remove some anonymous users and the test database, disable remote root logins, and load these new rules so that MySQL immediately respects the changes I have made.
 
 `sudo mysql_secure_installation`
 
